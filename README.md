@@ -2,7 +2,7 @@
 
 This repository contains questions that should be answered during a techincal interview.
 
-Each question has a dedicated readme file outlining what is expected from the candidate and an estimate of how much time the candidate should spend on the question.
+Each question has a dedicated readme file outlining what is expected from the candidate and an estimate of how much time the candidate should spend on the question. When completing the questions, please indicate how much time, more or less, was spent on answering each question.
 
 To simplify the completion of the take-home section of the technical interview, GitHub will be used to assess the candidate's skills. To this end, the candidate needs, at minimum,
 a device with a browser that can access GitHub. It is not expected of the candidate to clone the repository onto a device and use an IDE to answer the questions. Instead,
