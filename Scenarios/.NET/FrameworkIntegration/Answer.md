@@ -26,3 +26,6 @@ Since we using containers and cloud environments, then we can release the applic
 Always have a backup of the application just incase you need to go back to the previous version.
 
 If all goes well, then management will be informed and decide on a rollout date of the entire application.
+
+time spent:
+I spent roughly 30 minutes on this section.
